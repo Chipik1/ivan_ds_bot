@@ -3,4 +3,5 @@ requests
 asyncio
 yt_dlp
 PyNaCl
+ffmpeg-python
 

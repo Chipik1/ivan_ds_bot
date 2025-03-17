@@ -1,1 +1,6 @@
-chbot.py 
+discord.py
+requests
+asyncio
+yt_dlp
+
+
